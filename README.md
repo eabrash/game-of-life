@@ -1,8 +1,8 @@
 # Game of Life
 
-An implementation of John Conway's [Game of Life](https://en.wikipedia.org/wiki/Conway's_Game_of_Life) using C++ and SDL. The Game of Life is a classic example of how complex, sometimes even self-replicating phenomena can emerge from multiple components of a system interacting according to simple rules.
+An implementation of John Conway's [Game of Life](https://en.wikipedia.org/wiki/Conway's_Game_of_Life) using C++ and SDL. The Game of Life is a classic example of how complex, even self-replicating phenomena can emerge from multiple components of a system interacting according to simple rules.
 
-![Screenshot of Game of Life in action](https://eabrash.github.io/assets/gameoflife.png)
+![Screenshot of Game of Life in action](https://eabrash.github.io/assets/gameoflife_2.png)
 
 
 ##How to run Game of Life:
