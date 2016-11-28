@@ -157,7 +157,7 @@ int main(int argc, const char * argv[]) {
     int myArrayLength = myArrayDeclaredLength + 2;	//Size with gutters added
     int myArray [myArrayLength][myArrayLength];     //Primary array
     int tempArray[myArrayLength][myArrayLength];	//Temporary array from which to update primary
-    int seed = rand() % 100;                        //Seed for random number generator
+    int seed = 7;                        //Seed for random number generator
     int numGens = 10000;                            //Number of gens to run simulation
 
     
